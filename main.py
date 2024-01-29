@@ -33,6 +33,7 @@ def get_valid_char_types():
     while True:
         chars_to_include = input("""\n
 Characters to include in your password:
+=======================================
 [1] Uppercase  [3] Numbers
 [2] Lowercase  [4] Symbols
 
